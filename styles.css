@@ -1,0 +1,71 @@
+body {
+background-color: papayawhip;
+
+}
+h1{
+	color:mediumpurple;font-family: "courier new", courier; font-size: 300%;
+}
+.boldClass {font-weight: bold;
+}
+#bigID {
+	font-size:24px;
+}
+
+h2{ 
+	color:lightpink; font-family: "courier new", courier;  font-size: 175%;
+
+}	
+h3{
+
+	color:black; font-family:"Times New Roman";
+}
+h4{
+	color:lightpink; font-family:"courier new", courier; font-size: 150%;
+
+}
+
+h5{
+	color:peru; font-family: "courier new", courier; font-size: 150%
+
+}
+
+h6{
+
+	color:gray; font-family:courier, "courier new"; font-size: 150%;
+}
+p{
+	color:rebeccapurple; display:inline; font-family: "courier new", courier; font-size: 150%;
+
+}
+ul{
+	font-family: "courier new", courier; font-size: 150%;
+
+}
+ol{
+
+	color:rebeccapurple; font-family: "courier new", courier; font-size: 150%
+}
+a:link {
+    color : deeppink ;
+    background-color : transparent ; font-family: courier, "courier new"; font-size: 125% ;
+}
+a:visited {
+    color : deeppink ;
+    background-color : transparent ; font-family: courier, "courier new"; font-size: 125%
+}
+a:hover {
+    color : deeppink;
+    background-color : transparent ; font-family: courier, "courier new"; font-size: 125%
+}
+
+img{
+
+  max-width: 300px;
+  max-height: 300px;
+}
+
+
+
+
+
+
